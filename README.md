@@ -7,6 +7,7 @@ Dự án dự đoán **độ dẫn nhiệt (TC)** của vật liệu nhiệt đi
 - **20220801_rawdata.csv**: Dữ liệu thô từ StarryData.
 - Nguồn dữ liệu: https://github.com/starrydata/starrydata_datasets/blob/master/datasets/20220801.zip
 - **data_semiconductor.csv**: Tập dữ liệu tham chiếu trong quá trình xử lý.
+- **TC_filtered_final.csv**: Tập dữ liệu sau khi xử lý.
 
 ## Notebook
 
