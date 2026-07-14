@@ -25,6 +25,7 @@ Dự án dự đoán **độ dẫn nhiệt (TC)** của vật liệu nhiệt đi
 - **TC_CGCNN.ipynb**
   - Dự đoán TC bằng Crystal Graph Convolutional Neural Network.
 
+- Code dự đoán vật liệu mới được tích hợp trong notebook CGCNN.
 ## Mô hình đã huấn luyện
 
 - ML: **best_model_starry.pkl**
