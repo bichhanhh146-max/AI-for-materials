@@ -29,6 +29,6 @@ Dự án dự đoán **độ dẫn nhiệt (TC)** của vật liệu nhiệt đi
 - Code dự đoán vật liệu mới được tích hợp trong notebook CGCNN.
 ## Mô hình đã huấn luyện
 
-- ML: **best_model_starry.pkl**
+- ML: **best_model_starry.pkl**, được lưu tại Drive: https://drive.google.com/file/d/1h30clFpEThVmofjyw0Ra4MnIw5yuBp45/view?usp=sharing
 - MLP: *Coming soon*
 - CGCNN: **best_cgcnn_tc_temperature_fixed.pt**, **cgcnn_tc_graphs_fixed.pt**
